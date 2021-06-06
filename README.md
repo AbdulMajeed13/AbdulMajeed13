@@ -6,6 +6,11 @@ I'm a passionate self-taught `Web Designer` with UI/UX skills, and a freelancer 
 Currenlty digging into the fascinating world of `Cloud` with AWS☁️ <br />
 Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br />
 
+  ### 📫 You can Reach me at:
+  <br>
+   
+  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=LinkedIn&logo=LinkedIn&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdul-majeed13%2F)  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&logoColor=black&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100006262966779) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Instagram&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fabdul_majeed_13%2F%3Fhl%3Den) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Telegram&logo=Minutemailer&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fabdulmj13)
+
 ## Languages and Tools:
 ➤ Cloud &nbsp; 
   ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Amazon%20AWS&logo=Amazon%20AWS&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
@@ -21,6 +26,3 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Adobe%20Photoshop&logo=Adobe%20Photoshop&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html) ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Adobe%20Illustrator&logo=Adobe%20Illustrator&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Figma&logo=Figma&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 
----
-  **📫 You can Reach me at:**<br> 
-  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=LinkedIn&logo=LinkedIn&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdul-majeed13%2F)  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&logoColor=black&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100006262966779) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Instagram&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fabdul_majeed_13%2F%3Fhl%3Den) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Telegram&logo=Minutemailer&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fabdulmj13)

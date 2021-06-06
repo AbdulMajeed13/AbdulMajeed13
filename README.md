@@ -6,11 +6,11 @@ I'm a passionate self-taught `Web Designer` with UI/UX skills, and a freelancer 
 Currenlty digging into the fascinating world of `Cloud` with AWS☁️ <br />
 Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br />
 
-##  &nbsp; Stacks</h3>
+## Languages and Tools:
 ➤ Cloud &nbsp; 
   ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Amazon%20AWS&logo=Amazon%20AWS&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
  
-➤ Scripting Language &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Python&logo=Python&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
+➤ Scripting Languages &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Python&logo=Python&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=%20Bash&logo=GNU%20Bash&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 
 ➤ Markup Languages &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=HTML5&logo=HTML5&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)

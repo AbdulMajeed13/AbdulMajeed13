@@ -6,7 +6,7 @@ Currenlty digging into the fascinating world of `Cloud` with AWS☁️ <br />
 Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br />
 
   ### 📫 You can Reach me at:
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=LinkedIn&logo=LinkedIn&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdul-majeed13%2F)  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&logoColor=black&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100006262966779) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Instagram&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fabdul_majeed_13%2F%3Fhl%3Den) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Telegram&logo=Minutemailer&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fabdulmj13)
+![https://www.linkedin.com/in/abdul-majeed-5b9982212/](https://img.shields.io/twitter/url?color=black&label=LinkedIn&logo=LinkedIn&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdul-majeed13%2F)  ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&logoColor=black&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100006262966779) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Instagram&logo=Instagram&logoColor=black&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fabdul_majeed_13%2F%3Fhl%3Den) ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Telegram&logo=Minutemailer&logoColor=black&style=social&url=https%3A%2F%2Ft.me%2Fabdulmj13)
 <br>
 
 ### 💻 Languages and Tools:

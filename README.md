@@ -26,7 +26,7 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Figma&logo=Figma&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 <br>
 
-### 📊 Total time I Spent On:
+### ⌛ Total time I Spent On:
 
 |Subject | Progress bar | Completed hours
 |----|----|----|

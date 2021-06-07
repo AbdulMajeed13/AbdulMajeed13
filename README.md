@@ -29,7 +29,7 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Figma&logo=Figma&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 
 #### 📊 Total time I Spent On:
-AWS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  40hrs &nbsp;
-UI/UX     &nbsp;&nbsp;&nbsp;&nbsp; 40hrs
-Python  &nbsp;&nbsp;&nbsp;&nbsp; 3hrs
+AWS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  40hrs &nbsp; <br>
+UI/UX     &nbsp;&nbsp;&nbsp;&nbsp; 40hrs <br>
+Python  &nbsp;&nbsp;&nbsp;&nbsp; 3hrs <br>
 

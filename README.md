@@ -13,7 +13,6 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 ### 💻 Languages and Tools:
  <br>
 
-
 ➤ Cloud &nbsp; 
   ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Amazon%20AWS&logo=Amazon%20AWS&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
  
@@ -28,10 +27,12 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 ![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Adobe%20Photoshop&logo=Adobe%20Photoshop&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html) ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Adobe%20Illustrator&logo=Adobe%20Illustrator&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Figma&logo=Figma&logoColor=black&style=social&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fproducts%2Fxd.html)
 
-#### 📊 Total time I Spent On:
+### 📊 Total time I Spent On:
+<br>
+
 |Subject | Progress bar | Completed hours
 |----|----|----|
-| AWS   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs  <br> 
-| UI/UX     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs | <br>
-| Python  &nbsp;&nbsp;&nbsp;&nbsp; | ☒☐☐☐☐☐☐☐☐☐ &nbsp; | 3hrs/100hrs |<br>
+| **AWS**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs  <br> 
+| **UI/UX**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs | <br>
+| **Python**  &nbsp;&nbsp;&nbsp;&nbsp; | ☒☐☐☐☐☐☐☐☐☐ &nbsp; | 3hrs/100hrs |<br>
 

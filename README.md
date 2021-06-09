@@ -30,7 +30,7 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 
 |Subject | Progress bar | Completed hours
 |----|----|----|
-| **AWS**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs  <br> 
-| **UI/UX**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ☒☒☒☒☐☐☐☐☐☐ &nbsp; | 40hrs/100hrs | <br>
-| **Python**  &nbsp;&nbsp;&nbsp;&nbsp; | ☒☐☐☐☐☐☐☐☐☐ &nbsp; | 3hrs/100hrs |<br>
+| **AWS**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk34;&blk34;&blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 40hrs/100hrs  <br> 
+| **UI/UX**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk34;&blk34;&blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 40hrs/100hrs | <br>
+| **Python**  &nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 3hrs/100hrs |<br>
 

@@ -32,5 +32,5 @@ Oh ya! and learning `Python` also to automate the boring stuff in my life :) <br
 |----|----|----|
 | **AWS**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk34;&blk34;&blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 40hrs/100hrs  <br> 
 | **UI/UX**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk34;&blk34;&blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 40hrs/100hrs | <br>
-| **Python**  &nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 15hrs/100hrs |<br>
+| **Python**  &nbsp;&nbsp;&nbsp;&nbsp; | &blk34;&blk34;&blk34;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12; &nbsp; | 30hrs/100hrs |<br>
 
